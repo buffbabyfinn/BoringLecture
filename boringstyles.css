@@ -1,0 +1,24 @@
+img.Intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid #ff5858;
+  background-color: #92b4e6;
+  padding: 50px;
+}
+.Intro{
+  font-family: cursive;
+}
+h2.Intro{
+  font-size: 28px;
+  color: brown;
+}
+p.Intro{
+  font-stretch: extra-expanded;
+}
+h1{
+  color: brown
+}
+body{
+  background-color: #d9d48b;
+}
